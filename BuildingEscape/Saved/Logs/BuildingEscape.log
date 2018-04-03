@@ -1,0 +1,958 @@
+﻿Log file open, 04/03/18 16:43:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BuildingEscape
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-188933731) SRandInit(-188933731).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.263429
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.082s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Binaries/Win64/UE4Editor-BuildingEscape.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-0D2KUOO (192.168.1.101:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: F:/Program Files/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.03-23.43.12:601][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.03-23.43.12:601][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.03-23.43.12:612][  0]LogInit: Computer: DESKTOP-0D2KUOO
+[2018.04.03-23.43.12:612][  0]LogInit: User: steve
+[2018.04.03-23.43.12:612][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.03-23.43.12:612][  0]LogInit: High frequency timer resolution =3.897227 MHz
+[2018.04.03-23.43.12:612][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.03-23.43.12:612][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.03-23.43.12:612][  0]LogMemory: Process Physical Memory: 276.22 MB used, 276.22 MB peak
+[2018.04.03-23.43.12:612][  0]LogMemory: Process Virtual Memory: 264.68 MB used, 264.68 MB peak
+[2018.04.03-23.43.12:612][  0]LogMemory: Physical Memory: 5376.84 MB used,  2766.48 MB free, 8143.32 MB total
+[2018.04.03-23.43.12:612][  0]LogMemory: Virtual Memory: 698.20 MB used,  2766.48 MB free, 134217728.00 MB total
+[2018.04.03-23.43.12:625][  0]LogInit: Using OS detected language (en-US).
+[2018.04.03-23.43.12:625][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.03-23.43.12:627][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.03-23.43.13:023][  0]LogStreaming: Display: Took  0.398s to EndInitTextLocalization.
+[2018.04.03-23.43.13:023][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.03-23.43.13:056][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.03-23.43.13:056][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.03-23.43.13:229][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.03-23.43.13:266][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.04.03-23.43.13:266][  0]LogD3D11RHI:       4043/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.03-23.43.13:268][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.03-23.43.13:268][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.03-23.43.13:268][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.03-23.43.13:276][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.03-23.43.13:276][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.03-23.43.13:276][  0]LogWindows: EnumDisplayDevices:
+[2018.04.03-23.43.13:276][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.04.03-23.43.13:276][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.04.03-23.43.13:276][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.04.03-23.43.13:276][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.04.03-23.43.13:276][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.03-23.43.13:277][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.04.03-23.43.13:277][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.03-23.43.13:277][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.03-23.43.13:277][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.04.03-23.43.13:298][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.03-23.43.13:299][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.03-23.43.13:402][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.03-23.43.13:496][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Intermediate/Shaders/WorkingDirectory/7736/).
+[2018.04.03-23.43.13:496][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/steve/AppData/Local/Temp/UnrealShaderWorkingDir/77D3026741DD851A51B0358C19A2B227/'.
+[2018.04.03-23.43.13:694][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.03-23.43.13:705][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.03-23.43.13:716][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.03-23.43.13:727][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.03-23.43.13:740][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.03-23.43.13:751][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.03-23.43.13:764][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.03-23.43.13:775][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.03-23.43.13:781][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.03-23.43.13:791][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.03-23.43.13:801][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.03-23.43.13:811][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.03-23.43.13:822][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.03-23.43.13:833][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.03-23.43.13:845][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.03-23.43.13:866][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.03-23.43.13:866][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.03-23.43.13:876][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.03-23.43.13:877][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.03-23.43.13:912][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.03-23.43.13:925][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.03-23.43.13:937][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.03-23.43.13:948][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.03-23.43.13:959][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.03-23.43.13:970][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.03-23.43.13:970][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.03-23.43.14:037][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.03-23.43.14:037][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.03-23.43.14:037][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.03-23.43.14:692][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.03-23.43.14:755][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/steve/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.03-23.43.14:755][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/steve/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.03-23.43.14:755][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.03-23.43.14:755][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.03-23.43.14:755][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.03-23.43.14:755][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.03-23.43.14:771][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.03-23.43.14:783][  0]LogDerivedDataCache: Using Local data cache path C:/Users/steve/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.03-23.43.14:792][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.03-23.43.14:792][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.03-23.43.14:793][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.03-23.43.14:793][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.03-23.43.14:891][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.04.03-23.43.15:179][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.03-23.43.15:305][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.03-23.43.15:308][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.03-23.43.15:308][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.03-23.43.15:308][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.03-23.43.15:308][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.03-23.43.15:308][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.03-23.43.15:338][  0]LogNetVersion: BuildingEscape , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4285820645)
+[2018.04.03-23.43.15:729][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.078134 seconds
+[2018.04.03-23.43.15:735][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.03-23.43.15:735][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.03-23.43.15:735][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.03-23.43.17:138][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.03-23.43.17:180][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.03-23.43.17:444][  0]SourceControl: Source control is disabled
+[2018.04.03-23.43.17:444][  0]SourceControl: Source control is disabled
+[2018.04.03-23.43.17:454][  0]SourceControl: Source control is disabled
+[2018.04.03-23.43.17:464][  0]SourceControl: Source control is disabled
+[2018.04.03-23.43.17:820][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.03-23.43.17:952][  0]LogOcInput: OculusInput pre-init called
+[2018.04.03-23.43.18:029][  0]LogEngine: Initializing Engine...
+[2018.04.03-23.43.18:031][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.03-23.43.18:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.03-23.43.18:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.03-23.43.18:224][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.03-23.43.18:251][  0]LogInit: XAudio2 using 'Speakers (2- SDAC)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2018.04.03-23.43.18:262][  0]LogInit: FAudioDevice initialized.
+[2018.04.03-23.43.18:336][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/steve/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.03-23.43.18:353][  0]LogInit: Texture streaming: Enabled
+[2018.04.03-23.43.18:365][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.03-23.43.18:377][  0]LogInit: Transaction tracking system initialized
+[2018.04.03-23.43.18:390][  0]BlueprintLog: New page: Editor Load
+[2018.04.03-23.43.18:491][  0]LocalizationService: Localization service is disabled
+[2018.04.03-23.43.18:594][  0]LogConsoleResponse: Display: 
+[2018.04.03-23.43.18:732][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/' took 0.01s
+[2018.04.03-23.43.18:732][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.03-23.43.18:732][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.03-23.43.18:732][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.03-23.43.18:733][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.03-23.43.18:733][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.03-23.43.18:987][  0]SourceControl: Source control is disabled
+[2018.04.03-23.43.18:988][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 F:/Program Files/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.04.03-23.43.18:991][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.04.03-23.43.19:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.04.03-23.43.19:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.04.03-23.43.19:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.04.03-23.43.19:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.04.03-23.43.19:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.04.03-23.43.19:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.04.03-23.43.19:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.04.03-23.43.19:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.04.03-23.43.19:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.04.03-23.43.19:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.04.03-23.43.19:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.04.03-23.43.19:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.04.03-23.43.19:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.04.03-23.43.19:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.04.03-23.43.19:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.04.03-23.43.19:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.04.03-23.43.19:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.04.03-23.43.19:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Fire01.uasset"
+[2018.04.03-23.43.19:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.04.03-23.43.19:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.04.03-23.43.19:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.04.03-23.43.19:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Light01.uasset"
+[2018.04.03-23.43.19:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.04.03-23.43.19:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Light02.uasset"
+[2018.04.03-23.43.19:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.04.03-23.43.19:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.04.03-23.43.19:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.04.03-23.43.19:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.04.03-23.43.19:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.04.03-23.43.19:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.04.03-23.43.19:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.04.03-23.43.19:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.04.03-23.43.19:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.04.03-23.43.19:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Steam01.uasset"
+[2018.04.03-23.43.19:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.04.03-23.43.19:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.04.03-23.43.19:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.04.03-23.43.19:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.04.03-23.43.19:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.04.03-23.43.19:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.04.03-23.43.19:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.04.03-23.43.19:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.04.03-23.43.19:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.04.03-23.43.19:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.04.03-23.43.19:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.04.03-23.43.19:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.04.03-23.43.19:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.04.03-23.43.19:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.04.03-23.43.19:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.04.03-23.43.19:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.04.03-23.43.19:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.04.03-23.43.20:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.04.03-23.43.20:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.04.03-23.43.20:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.04.03-23.43.20:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.04.03-23.43.20:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.04.03-23.43.20:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Maps/StarterMap.umap"
+[2018.04.03-23.43.20:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.04.03-23.43.20:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.04.03-23.43.20:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.04.03-23.43.20:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.04.03-23.43.20:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.04.03-23.43.20:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.04.03-23.43.20:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.04.03-23.43.20:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.04.03-23.43.20:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.04.03-23.43.20:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.04.03-23.43.20:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.04.03-23.43.20:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.04.03-23.43.20:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.04.03-23.43.20:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.04.03-23.43.20:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.04.03-23.43.20:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.04.03-23.43.20:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.04.03-23.43.20:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.04.03-23.43.20:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.04.03-23.43.20:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.04.03-23.43.20:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.04.03-23.43.20:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.04.03-23.43.20:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.04.03-23.43.20:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.04.03-23.43.20:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.04.03-23.43.20:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.04.03-23.43.20:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.04.03-23.43.20:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.04.03-23.43.20:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.04.03-23.43.20:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.04.03-23.43.20:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.04.03-23.43.20:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.04.03-23.43.20:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.04.03-23.43.20:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.04.03-23.43.20:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.04.03-23.43.20:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.04.03-23.43.20:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.04.03-23.43.20:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.04.03-23.43.20:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.04.03-23.43.20:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.04.03-23.43.20:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.04.03-23.43.20:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.04.03-23.43.20:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.04.03-23.43.20:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.04.03-23.43.20:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.04.03-23.43.20:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.04.03-23.43.20:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.04.03-23.43.20:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.04.03-23.43.20:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.04.03-23.43.20:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.04.03-23.43.20:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.04.03-23.43.20:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.04.03-23.43.20:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.04.03-23.43.20:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.04.03-23.43.20:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.04.03-23.43.20:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.04.03-23.43.20:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.04.03-23.43.20:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.04.03-23.43.20:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.04.03-23.43.20:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.04.03-23.43.20:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.04.03-23.43.20:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.04.03-23.43.20:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.04.03-23.43.20:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.04.03-23.43.20:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.04.03-23.43.20:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_Door.uasset"
+[2018.04.03-23.43.20:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.04.03-23.43.20:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.04.03-23.43.20:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.04.03-23.43.20:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.04.03-23.43.20:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.04.03-23.43.20:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.04.03-23.43.20:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.04.03-23.43.20:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.04.03-23.43.20:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.04.03-23.43.20:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.04.03-23.43.20:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.04.03-23.43.21:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.04.03-23.43.21:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.04.03-23.43.21:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.04.03-23.43.21:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.04.03-23.43.21:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.04.03-23.43.21:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.04.03-23.43.21:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.04.03-23.43.21:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.04.03-23.43.21:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.04.03-23.43.21:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.04.03-23.43.21:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.04.03-23.43.21:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.04.03-23.43.21:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.04.03-23.43.21:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.04.03-23.43.21:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.04.03-23.43.21:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.04.03-23.43.21:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.04.03-23.43.21:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.04.03-23.43.21:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.04.03-23.43.21:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.04.03-23.43.21:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.04.03-23.43.21:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.04.03-23.43.21:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.04.03-23.43.21:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.04.03-23.43.21:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.04.03-23.43.21:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.04.03-23.43.21:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.04.03-23.43.21:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.04.03-23.43.21:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.04.03-23.43.21:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.04.03-23.43.21:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.04.03-23.43.21:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.04.03-23.43.21:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.04.03-23.43.21:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.04.03-23.43.21:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.04.03-23.43.21:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.04.03-23.43.21:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.04.03-23.43.21:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.04.03-23.43.21:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.04.03-23.43.21:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.04.03-23.43.21:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.04.03-23.43.21:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.04.03-23.43.21:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.04.03-23.43.21:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.04.03-23.43.21:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.04.03-23.43.21:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.04.03-23.43.21:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.04.03-23.43.21:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.04.03-23.43.21:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.04.03-23.43.21:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.04.03-23.43.21:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.04.03-23.43.21:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.04.03-23.43.21:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.04.03-23.43.21:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.04.03-23.43.21:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.04.03-23.43.21:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.04.03-23.43.21:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.04.03-23.43.21:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.04.03-23.43.21:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.04.03-23.43.22:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.04.03-23.43.22:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.04.03-23.43.22:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.04.03-23.43.22:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.04.03-23.43.22:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.04.03-23.43.22:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.04.03-23.43.22:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.04.03-23.43.22:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.04.03-23.43.22:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.04.03-23.43.22:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.04.03-23.43.22:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.04.03-23.43.22:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.04.03-23.43.22:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.04.03-23.43.22:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.04.03-23.43.22:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.04.03-23.43.22:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.04.03-23.43.22:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.04.03-23.43.22:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.04.03-23.43.22:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.04.03-23.43.22:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.04.03-23.43.22:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.04.03-23.43.22:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.04.03-23.43.22:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.04.03-23.43.22:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.04.03-23.43.22:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.04.03-23.43.22:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.04.03-23.43.22:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.04.03-23.43.22:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.04.03-23.43.22:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.04.03-23.43.22:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.04.03-23.43.22:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.04.03-23.43.22:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.04.03-23.43.22:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.04.03-23.43.22:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.04.03-23.43.22:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.04.03-23.43.22:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.04.03-23.43.22:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.04.03-23.43.23:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.04.03-23.43.23:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.04.03-23.43.23:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.04.03-23.43.23:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.04.03-23.43.23:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.04.03-23.43.23:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.04.03-23.43.23:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.04.03-23.43.23:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.04.03-23.43.23:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.04.03-23.43.23:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.04.03-23.43.23:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.04.03-23.43.23:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.04.03-23.43.23:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.04.03-23.43.23:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.04.03-23.43.23:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.04.03-23.43.23:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.04.03-23.43.23:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.04.03-23.43.23:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.04.03-23.43.23:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.04.03-23.43.23:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.04.03-23.43.23:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.04.03-23.43.23:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.04.03-23.43.23:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.04.03-23.43.23:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.04.03-23.43.23:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.04.03-23.43.23:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.04.03-23.43.23:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.04.03-23.43.23:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.04.03-23.43.23:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.04.03-23.43.23:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.04.03-23.43.24:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.04.03-23.43.24:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.04.03-23.43.24:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.04.03-23.43.24:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.04.03-23.43.24:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.04.03-23.43.24:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.04.03-23.43.24:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.04.03-23.43.24:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.04.03-23.43.24:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.04.03-23.43.24:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.04.03-23.43.24:491][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.04.03-23.43.24:736][  0]LogSavePackage: Save=20.33ms
+[2018.04.03-23.43.24:736][  0]LogSavePackage: Moving 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Saved/Floor_400x400CEB3F6D540172A4614FD85887A35FA67.tmp' to 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.04.03-23.43.24:741][  0]LogSavePackage: Display: Finished SavePackage C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.04.03-23.43.24:742][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.04.03-23.43.24:746][  0]Cmd: MAP LOAD FILE="C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.03-23.43.24:747][  0]LightingResults: New page: Lighting Build
+[2018.04.03-23.43.24:748][  0]MapCheck: New page: Map Check
+[2018.04.03-23.43.24:748][  0]LightingResults: New page: Lighting Build
+[2018.04.03-23.43.25:246][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.03-23.43.25:258][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.03-23.43.25:271][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.03-23.43.25:308][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.289ms to complete.
+[2018.04.03-23.43.25:308][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.562
+[2018.04.03-23.43.25:390][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.03-23.43.25:575][  0]LogCollectionManager: Loaded 0 collections in 0.000643 seconds
+[2018.04.03-23.43.25:694][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Saved/Collections/' took 0.01s
+[2018.04.03-23.43.25:694][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/Developers/steve/Collections/' took 0.01s
+[2018.04.03-23.43.25:694][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/Collections/' took 0.01s
+[2018.04.03-23.43.25:694][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.03-23.43.25:703][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2454 classes and 562 folders.
+[2018.04.03-23.43.25:710][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.04.03-23.43.26:092][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.03-23.43.26:183][  0]LogSlate: Took 0.006778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.03-23.43.26:193][  0]LogSlate: Took 0.005937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.03-23.43.26:206][  0]LogSlate: Took 0.007230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.03-23.43.26:237][  0]LogRenderer: Reallocating scene render targets to support 892x924 Format 10 NumSamples 1 (Frame:1).
+[2018.04.03-23.43.26:326][  0]LogSlate: Took 0.006647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.03-23.43.26:447][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.03-23.43.26:447][  0]LogLoad: (Engine Initialization) Total time: 16.12 seconds
+[2018.04.03-23.43.26:447][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.03-23.43.26:478][  0]LogAssetRegistry: Asset discovery search completed in 11.6087 seconds
+[2018.04.03-23.43.26:479][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.03-23.43.26:479][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.04.03-23.43.26:572][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.03-23.43.29:728][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.43.30:919][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.43.31:997][385]LogSlate: Window 'New Level' being destroyed
+[2018.04.03-23.43.32:003][385]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.03-23.43.32:016][385]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.03-23.43.32:018][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.43.32:036][385]LightingResults: New page: Lighting Build
+[2018.04.03-23.43.32:037][385]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.04.03-23.43.32:039][385]MapCheck: New page: Map Check
+[2018.04.03-23.43.32:039][385]LightingResults: New page: Lighting Build
+[2018.04.03-23.43.32:071][385]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.03-23.43.32:082][385]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.03-23.43.32:094][385]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.03-23.43.32:130][385]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 35.802ms to complete.
+[2018.04.03-23.43.32:130][385]LogFileHelpers: Loading map 'Template_Default' took 0.128
+[2018.04.03-23.43.33:445][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.43.38:478][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.43.46:890][659]LogSlate: Window 'Save Level As' being destroyed
+[2018.04.03-23.43.46:949][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.43.46:966][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/NewMap" FILE="C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/Scenes/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.03-23.43.47:003][659]LogSavePackage: Save=24.41ms
+[2018.04.03-23.43.47:003][659]LogSavePackage: Moving 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Saved/NewMap58B334EE422999B62591FE9DD6B1C483.tmp' to 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/Scenes/NewMap.umap'
+[2018.04.03-23.43.47:004][659]LogSavePackage: Display: Finished SavePackage C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/Scenes/NewMap.umap
+[2018.04.03-23.43.47:026][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/NewMap_BuiltData" FILE="C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/Scenes/NewMap_BuiltData.uasset" SILENT=true
+[2018.04.03-23.43.47:042][659]LogSavePackage: Save=14.23ms
+[2018.04.03-23.43.47:042][659]LogSavePackage: Moving 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Saved/NewMap_BuiltData0EF0A04D404D7BEBE8EDF79B56A87964.tmp' to 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/Scenes/NewMap_BuiltData.uasset'
+[2018.04.03-23.43.47:043][659]LogSavePackage: Display: Finished SavePackage C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/Scenes/NewMap_BuiltData.uasset
+[2018.04.03-23.43.47:046][659]LogFileHelpers: Saving map 'NewMap' took 0.149
+[2018.04.03-23.43.47:046][659]Cmd: MAP LOAD FILE="C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Content/Scenes/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.03-23.43.47:059][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.43.47:072][659]LightingResults: New page: Lighting Build
+[2018.04.03-23.43.47:073][659]LoadErrors: New page: Loading map: NewMap.umap
+[2018.04.03-23.43.47:073][659]MapCheck: New page: Map Check
+[2018.04.03-23.43.47:073][659]LightingResults: New page: Lighting Build
+[2018.04.03-23.43.47:094][659]LogAIModule: Creating AISystem for world NewMap
+[2018.04.03-23.43.47:098][659]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.03-23.43.47:122][659]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.03-23.43.47:163][659]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.132ms to complete.
+[2018.04.03-23.43.47:163][659]LogFileHelpers: Loading map 'NewMap' took 0.117
+[2018.04.03-23.43.47:164][659]LoadErrors: Error: /Game/Scenes/NewMap : Failed import for MapBuildDataRegistry /Game/Scenes/NewMap_BuiltData.NewMap_BuiltData Referenced by export Level /Game/Scenes/NewMap.NewMap:PersistentLevel
+[2018.04.03-23.43.50:616][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.43.54:067][136]LogActorFactory: Actor Factory created SM_Chair
+[2018.04.03-23.43.54:651][201]LogActorFactory: Actor Factory created SM_Chair
+[2018.04.03-23.44.03:288][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.44.03:488][ 87]LogActorFactory: Actor Factory created SM_Rock
+[2018.04.03-23.44.04:431][185]LogActorFactory: Actor Factory created SM_Rock
+[2018.04.03-23.44.07:962][549]Cmd: DELETE
+[2018.04.03-23.44.07:962][549]Cmd: ACTOR DELETE
+[2018.04.03-23.44.07:982][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.03-23.44.07:990][549]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.04.03-23.44.14:377][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.44.14:606][838]LogActorFactory: Actor Factory created SM_Couch
+[2018.04.03-23.44.15:152][901]LogActorFactory: Actor Factory created SM_Couch
+[2018.04.03-23.44.25:006][946]Cmd: TRANSACTION UNDO
+[2018.04.03-23.44.25:006][946]LogEditorTransaction: Undo Move Actors
+[2018.04.03-23.44.29:191][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.44.29:769][203]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2018.04.03-23.44.30:891][287]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2018.04.03-23.44.31:543][354]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2018.04.03-23.44.45:998][968]Cmd: TRANSACTION UNDO
+[2018.04.03-23.44.45:998][968]LogEditorTransaction: Undo Scale Actors
+[2018.04.03-23.44.48:170][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.44.48:386][ 65]LogActorFactory: Actor Factory created SM_TableRound
+[2018.04.03-23.44.49:134][ 98]LogActorFactory: Actor Factory created SM_TableRound
+[2018.04.03-23.44.53:702][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.44.53:748][585]MapCheck: New page: Map Check
+[2018.04.03-23.44.53:809][585]Cmd: MAP REBUILD ALLVISIBLE
+[2018.04.03-23.44.53:810][585]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.04.03-23.44.53:846][585]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.04.03-23.44.53:864][585]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.04.03-23.44.53:869][585]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.03-23.44.53:869][585]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.03-23.44.53:869][585]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.04.03-23.44.53:877][585]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.04.03-23.44.53:882][585]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.04.03-23.44.53:888][585]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.04.03-23.44.55:206][585]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.03-23.44.55:206][585]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.03-23.44.55:206][585]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.03-23.44.55:206][585]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.03-23.44.55:206][585]TextureStreamingBuild: Display: Compiling optional shaders took 1.369 seconds.
+[2018.04.03-23.44.55:233][585]LogLevel: Display: Export Material TexCoord Scales took 0.027 seconds.
+[2018.04.03-23.44.55:239][585]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2018.04.03-23.44.55:258][585]LightingResults: New page: Lighting Build - Apr 3, 2018, 9:44:55 AM
+[2018.04.03-23.44.55:379][585]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.04.03-23.44.55:518][585]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.04.03-23.44.55:534][585]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.04.03-23.44.56:052][585]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.04.03-23.44.56:052][585]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7736
+[2018.04.03-23.44.58:972][585]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.04.03-23.44.58:974][585]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.04.03-23.44.58:974][585]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.04.03-23.44.58:974][585]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.04.03-23.44.58:974][585]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.04.03-23.44.58:974][585]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.04.03-23.44.59:132][585]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.04.03-23.44.59:133][585]MapCheck: New page: NewMap - Apr 3, 2018, 9:44:59 AM
+[2018.04.03-23.44.59:133][585]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.04.03-23.44.59:174][585]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 41.626ms to complete.
+[2018.04.03-23.44.59:196][585]LogEditorBuildUtils: Build time 0:05
+[2018.04.03-23.44.59:217][585]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.44.59:244][585]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2018.04.03-23.44.59:253][585]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2018.04.03-23.44.59:289][585]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.03-23.44.59:412][587]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Lamp, compiling. 
+[2018.04.03-23.44.59:417][587]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.03-23.44.59:417][587]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Lamp, compiling. 
+[2018.04.03-23.44.59:430][587]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.03-23.45.02:439][625]Job is a success!
+[2018.04.03-23.45.02:658][626]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2018.04.03-23.45.02:658][626]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.04.03-23.45.02:658][626]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.04.03-23.45.02:658][626]LogVolumetricLightmapImport:      Bricks at Level
+[2018.04.03-23.45.02:658][626]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.04.03-23.45.02:658][626]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.04.03-23.45.02:658][626]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.04.03-23.45.02:859][626]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.04.03-23.45.02:859][626]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.04.03-23.45.02:859][626]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.04.03-23.45.02:859][626]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.04.03-23.45.02:859][626]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.04.03-23.45.02:859][626]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X128)
+[2018.04.03-23.45.02:952][626]Lightmass on DESKTOP-0D2KUOO: 1.93 sec total, 185 ms importing, 27 ms setup, 408 ms photons, 1.28 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 8.79 sec total, 1.68 sec processing.
+[2018.04.03-23.45.03:051][626]LogStaticLightingSystem: Illumination: 7.69 sec (87 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2018.04.03-23.45.03:051][626]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.04.03-23.45.03:051][626]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.04.03-23.45.03:978][626]DumpUnbuiltLightIteractions
+[2018.04.03-23.45.03:978][626]Lights with unbuilt interactions: 0
+[2018.04.03-23.45.03:978][626]
+[2018.04.03-23.45.03:978][626]Primitives with unbuilt interactions: 0
+[2018.04.03-23.45.03:991][626]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.45.04:120][627]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.04.03-23.45.04:120][627]MapCheck: New page: NewMap - Apr 3, 2018, 9:45:04 AM
+[2018.04.03-23.45.04:165][627]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.927ms to complete.
+[2018.04.03-23.45.04:820][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.45.04:924][642]LogSlate: Window 'Message Log' being destroyed
+[2018.04.03-23.45.04:979][642]LogSlate: Window 'Message Log' being destroyed
+[2018.04.03-23.45.10:458][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling)
+[2018.04.03-23.45.13:653][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.45.19:317][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.45.19:498][201]LogRenderer: Reallocating scene render targets to support 896x924 Format 10 NumSamples 1 (Frame:8081).
+[2018.04.03-23.45.19:539][202]LogRenderer: Reallocating scene render targets to support 904x924 Format 10 NumSamples 1 (Frame:8083).
+[2018.04.03-23.45.19:585][203]LogRenderer: Reallocating scene render targets to support 928x924 Format 10 NumSamples 1 (Frame:8085).
+[2018.04.03-23.45.19:627][204]LogRenderer: Reallocating scene render targets to support 952x924 Format 10 NumSamples 1 (Frame:8087).
+[2018.04.03-23.45.19:673][205]LogRenderer: Reallocating scene render targets to support 956x924 Format 10 NumSamples 1 (Frame:8089).
+[2018.04.03-23.45.19:712][206]LogRenderer: Reallocating scene render targets to support 960x924 Format 10 NumSamples 1 (Frame:8091).
+[2018.04.03-23.45.19:754][207]LogRenderer: Reallocating scene render targets to support 964x924 Format 10 NumSamples 1 (Frame:8093).
+[2018.04.03-23.45.20:338][270]LogRenderer: Reallocating scene render targets to support 968x924 Format 10 NumSamples 1 (Frame:8097).
+[2018.04.03-23.45.24:403][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.45.25:790][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.45.26:434][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.45.27:451][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.45.37:936][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.45.38:117][184]LogActorFactory: Actor Factory created SM_Statue
+[2018.04.03-23.45.38:529][225]LogActorFactory: Actor Factory created SM_Statue
+[2018.04.03-23.46.02:635][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.46.02:721][906]MapCheck: New page: Map Check
+[2018.04.03-23.46.02:757][906]Cmd: MAP REBUILD ALLVISIBLE
+[2018.04.03-23.46.02:757][906]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.04.03-23.46.02:779][906]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.04.03-23.46.02:784][906]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.04.03-23.46.02:787][906]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.04.03-23.46.02:792][906]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.03-23.46.02:792][906]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.03-23.46.02:792][906]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.03-23.46.02:792][906]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.04.03-23.46.02:797][906]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.04.03-23.46.02:803][906]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.04.03-23.46.02:809][906]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_StatueGlass, compiling. 
+[2018.04.03-23.46.02:815][906]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue, compiling. 
+[2018.04.03-23.46.03:707][906]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.03-23.46.03:707][906]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.03-23.46.03:707][906]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.03-23.46.03:707][906]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.03-23.46.03:707][906]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.03-23.46.03:707][906]TextureStreamingBuild: Display: Compiling optional shaders took 0.932 seconds.
+[2018.04.03-23.46.03:715][906]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2018.04.03-23.46.03:720][906]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2018.04.03-23.46.03:728][906]LightingResults: New page: Lighting Build - Apr 3, 2018, 9:46:03 AM
+[2018.04.03-23.46.03:737][906]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.04.03-23.46.03:739][906]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.04.03-23.46.03:739][906]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.04.03-23.46.03:740][906]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.04.03-23.46.03:740][906]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7736
+[2018.04.03-23.46.08:256][906]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.04.03-23.46.08:256][906]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.04.03-23.46.08:256][906]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.04.03-23.46.08:256][906]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.04.03-23.46.08:256][906]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.04.03-23.46.08:256][906]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.04.03-23.46.08:361][906]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.04.03-23.46.08:362][906]MapCheck: New page: NewMap - Apr 3, 2018, 9:46:08 AM
+[2018.04.03-23.46.08:362][906]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.04.03-23.46.08:401][906]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 39.067ms to complete.
+[2018.04.03-23.46.08:423][906]LogEditorBuildUtils: Build time 0:05
+[2018.04.03-23.46.08:438][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.46.08:518][907]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Statue, compiling. 
+[2018.04.03-23.46.08:522][907]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Statue, compiling. 
+[2018.04.03-23.46.08:911][907]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.03-23.46.08:911][907]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.03-23.46.10:943][936]Job is a success!
+[2018.04.03-23.46.11:611][937]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2018.04.03-23.46.11:611][937]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.04.03-23.46.11:611][937]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.04.03-23.46.11:611][937]LogVolumetricLightmapImport:      Bricks at Level
+[2018.04.03-23.46.11:611][937]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.04.03-23.46.11:611][937]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.04.03-23.46.11:611][937]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.04.03-23.46.11:864][937]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.04.03-23.46.11:864][937]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.04.03-23.46.11:864][937]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.04.03-23.46.11:864][937]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.04.03-23.46.11:922][937]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.04.03-23.46.11:923][937]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2018.04.03-23.46.12:127][937]Lightmass on DESKTOP-0D2KUOO: 2.66 sec total, 181 ms importing, 29 ms setup, 412 ms photons, 2.01 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 13.8 sec total, 2.46 sec processing.
+[2018.04.03-23.46.12:474][937]LogStaticLightingSystem: Illumination: 8.37 sec (134 ms encoding lightmaps, 34 ms encoding shadowmaps)
+[2018.04.03-23.46.12:474][937]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.04.03-23.46.12:474][937]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.04.03-23.46.13:261][937]DumpUnbuiltLightIteractions
+[2018.04.03-23.46.13:261][937]Lights with unbuilt interactions: 0
+[2018.04.03-23.46.13:261][937]
+[2018.04.03-23.46.13:261][937]Primitives with unbuilt interactions: 0
+[2018.04.03-23.46.13:275][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.46.13:547][938]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.04.03-23.46.13:547][938]MapCheck: New page: NewMap - Apr 3, 2018, 9:46:13 AM
+[2018.04.03-23.46.13:584][938]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 36.451ms to complete.
+[2018.04.03-23.46.17:544][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.46.17:600][990]LogSlate: Window 'Message Log' being destroyed
+[2018.04.03-23.46.17:662][990]LogSlate: Window 'Message Log' being destroyed
+[2018.04.03-23.48.51:307][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.50.01:246][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.04.03-23.50.03:548][293]LogSlate: Took 0.006198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.03-23.50.04:459][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.51.56:328][444]LogSlate: Window 'Class Viewer' being destroyed
+[2018.04.03-23.51.56:420][444]LogSlate: Window 'Class Viewer' being destroyed
+[2018.04.03-23.52.00:614][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2018.04.03-23.52.03:330][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.52.24:688][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-23.52.33:243][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.52.37:009][784]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.52.37:040][784]LogSlate: Took 0.007838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.03-23.52.48:371][784]Running F:/Program Files/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape Win64 Development -editorrecompile "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/BuildingEscape.uproject" -invalidatemakefilesonly
+[2018.04.03-23.52.48:763][784]Invalidating makefiles only in this run.
+[2018.04.03-23.52.48:891][784]Candidate modules for hot reload:
+[2018.04.03-23.52.48:891][784]  BuildingEscape
+[2018.04.03-23.52.48:891][784]Launching UnrealBuildTool... [F:/Program Files/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix=BuildingEscape,1599 Win64 Development -editorrecompile -canskiplink "C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/BuildingEscape.uproject" ]
+[2018.04.03-23.53.37:895][784]CompilerResultsLog: New page: Compilation - Apr 3, 2018, 9:53:37 AM
+[2018.04.03-23.53.37:895][784]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2018.04.03-23.53.37:895][784]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.04.03-23.53.37:896][784]CompilerResultsLog: Creating makefile for hot reloading BuildingEscape (no existing makefile)
+[2018.04.03-23.53.37:896][784]CompilerResultsLog: Compiling game modules for hot reload
+[2018.04.03-23.53.37:896][784]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2018.04.03-23.53.37:896][784]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\steve\Documents\GitHub\UnrealLearning\BuildingEscape\BuildingEscape.uproject" "C:\Users\steve\Documents\GitHub\UnrealLearning\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.04.03-23.53.37:896][784]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 9.0490985 seconds
+[2018.04.03-23.53.37:896][784]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.04.03-23.53.37:896][784]CompilerResultsLog: BuildingEscape.init.gen.cpp
+[2018.04.03-23.53.37:896][784]CompilerResultsLog: PositionReporter.cpp
+[2018.04.03-23.53.37:896][784]CompilerResultsLog: PositionReporter.gen.cpp
+[2018.04.03-23.53.37:896][784]CompilerResultsLog: [4/5] Link UE4Editor-BuildingEscape-1599.dll
+[2018.04.03-23.53.37:896][784]CompilerResultsLog: [5/5] Link UE4Editor-BuildingEscape-1599.lib
+[2018.04.03-23.53.37:896][784]CompilerResultsLog:    Creating library C:\Users\steve\Documents\GitHub\UnrealLearning\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-1599.lib and object C:\Users\steve\Documents\GitHub\UnrealLearning\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-1599.exp
+[2018.04.03-23.53.37:896][784]CompilerResultsLog:    Creating library C:\Users\steve\Documents\GitHub\UnrealLearning\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-1599.suppressed.lib and object C:\Users\steve\Documents\GitHub\UnrealLearning\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-1599.suppressed.exp
+[2018.04.03-23.53.37:896][784]CompilerResultsLog: Total build time: 48.83 seconds (Local executor: 9.86 seconds)
+[2018.04.03-23.53.37:897][784]LogMainFrame: MainFrame: Module compiling took 49.020 seconds
+[2018.04.03-23.53.37:932][784]LogClass: Could not find existing class PositionReporter in package /Script/BuildingEscape for HotReload, assuming new class
+[2018.04.03-23.53.37:935][784]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0010 seconds. Added 2 classes and 2 folders.
+[2018.04.03-23.53.37:937][784]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.04.03-23.53.38:069][784]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2455 classes and 562 folders.
+[2018.04.03-23.53.38:072][784]Display: HotReload took 49.2s.
+[2018.04.03-23.53.38:074][784]Warning: HotReload operation took 49.2s.
+[2018.04.03-23.53.39:959][784]LogSlate: Window 'Add C++ Component' being destroyed
+[2018.04.03-23.53.39:978][784]LogHotReload: New module detected: UE4Editor-BuildingEscape-1599.dll
+[2018.04.03-23.53.39:996][784]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-23.53.40:058][785]LogHotReload: Starting Hot-Reload from IDE
+[2018.04.03-23.53.40:167][785]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2018.04.03-23.53.40:168][785]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.04.03-23.53.40:188][785]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2455 classes and 562 folders.
+[2018.04.03-23.53.40:203][785]Display: HotReload took  0.1s.
+[2018.04.03-23.54.50:027][994]LogSavePackage: Save=21.86ms
+[2018.04.03-23.54.50:027][994]LogSavePackage: Moving 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Saved/NewMap_Auto14FF878D046AE19F9900AF59EB5B322B7.tmp' to 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Saved/Autosaves/Game/Scenes/NewMap_Auto1.umap'
+[2018.04.03-23.54.50:028][994]LogSavePackage: Display: Finished SavePackage C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Saved/Autosaves/Game/Scenes/NewMap_Auto1.umap
+[2018.04.03-23.54.50:032][994]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/NewMap' took 0.057
+[2018.04.03-23.54.50:032][994]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.057
+[2018.04.03-23.54.50:048][994]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scenes/NewMap_BuiltData] ([1] browsable assets)...
+[2018.04.03-23.54.50:048][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scenes/NewMap_BuiltData]
+[2018.04.03-23.54.50:071][994]LogSavePackage: Save=8.29ms
+[2018.04.03-23.54.50:071][994]LogSavePackage: Moving 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Saved/NewMap_BuiltData_Auto15C4667AF4B1C135711CF139C02494E6A.tmp' to 'C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Saved/Autosaves/Game/Scenes/NewMap_BuiltData_Auto1.uasset'
+[2018.04.03-23.54.50:072][994]LogSavePackage: Display: Finished SavePackage C:/Users/steve/Documents/GitHub/UnrealLearning/BuildingEscape/Saved/Autosaves/Game/Scenes/NewMap_BuiltData_Auto1.uasset
+[2018.04.03-23.54.50:072][994]LogFileHelpers: Auto-saving content packages took 0.025
+[2018.04.03-23.55.40:527][500]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.03-23.55.40:635][501]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BuildingEscape
+[2018.04.03-23.55.40:635][501]LogTemp: CWD: F:\Program Files\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.03-23.55.40:635][501]LogTemp: Initial Dir: F:\Program Files\UE_4.19
+[2018.04.03-23.55.40:635][501]LogTemp: Env CWD: F:\Program Files\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.03-23.55.40:635][501]LogTemp: BranchPath = DESKTOP-0D2KUOO/F/Program Files/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-0D2KUOO/F/Program Files/UE_4.19/Engine/Binaries
+[2018.04.03-23.55.40:635][501]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\steve\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.03-23.56.08:615][127]LogSlate: Window 'Project Settings' being destroyed
+[2018.04.03-23.56.08:633][127]LogSlate: Window 'Project Settings' being destroyed
